@@ -1,0 +1,62 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+    /// <summary>  
+    /// Brief summary of what the class does
+    /// </summary>
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+
+        #region Variables
+
+        // Constant Fields
+
+        // Static Fields
+
+        // Fields
+
+        // Constructors
+
+        // Properties
+
+        // Events / Delegates
+
+        // Public Methods
+
+        // Private Methods
+
+        // Nested types
+
+
+        #endregion
+
+        #region Life Cycle
+
+        // LifeCycle Methods (Awake, OnEnable, OnDisable, OnDestroy)
+
+        #endregion
+
+        #region Unity Methods
+
+        // Start is called before the first frame update
+        void Start()
+        {
+            #NOTRIM#
+        }
+
+        // Update is called once per frame
+        void Update()
+        {
+            #NOTRIM#
+        }
+
+        
+        #endregion
+
+        #region Class
+
+        #endregion
+    }
+#ROOTNAMESPACEEND#
